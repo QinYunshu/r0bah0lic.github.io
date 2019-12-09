@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to r0bah0lic.github.io
+
+I am lecturer at the University of Edinburgh and an Assistant Professor at the University of Edinburgh - Zhejiang University Institute. This is my public github repository. 
 
 You can use the [editor on GitHub](https://github.com/r0bah0lic/r0bah0lic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
