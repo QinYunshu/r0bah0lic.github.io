@@ -1,8 +1,8 @@
-# This is a heading
-## This is another (smaller) heading
+# This is my main heading
+## This is a secondary heading
 
 - this is the beginning of a list
 - this is the next item in the list
 - and the next
 
-[This is a link to a website](https://github.com/)
+[This is a link to a website](https://www.ed.ac.uk/profile/robert-young)
